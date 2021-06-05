@@ -6,7 +6,9 @@ To run this repo interactively, click following button:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stringfestdata/five-things-excel-python/HEAD)
 
-To download the white paper, subscribe to my resource library for access to my data analytics education resource library. 
+
+
+To download the accompanying white paper, [subscribe for access](http://georgejmount.com/subscribe/) to my data analytics education resource library. 
 
 
 
